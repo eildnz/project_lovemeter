@@ -1,2 +1,6 @@
 # Lovemeter Uygulaması hakkında açıklamalar:
 -
+
+
+
+

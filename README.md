@@ -1,1 +1,2 @@
-# project_lovemeter
+# Lovemeter Uygulaması hakkında açıklamalar:
+-
